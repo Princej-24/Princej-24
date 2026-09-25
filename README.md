@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Hi%20there,%20I'm%20Prince%20Jaiswal!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Namaste,%20I'm%20Prince%20Jaiswal!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full+Stack+Development+Learner;C%2B%2B+%7C+Python+%7C+JavaScript;Exploring+Artificial+Intelligence;Building+Projects+As+I+Learn" />
 
@@ -10,22 +10,18 @@
 
 ## 👨‍💻 About Me
 
-I'm a **2nd Year Computer Science Engineering student at ABES Engineering College, Ghaziabad**, currently focused on **Full Stack Web Development, Data Structures & Algorithms, and exploring Artificial Intelligence**.
+I'm a **2nd Year B.Tech Computer Science Engineering student** at **ABES Engineering College, Ghaziabad**.
 
-I enjoy learning by building projects and continuously improving my programming and development skills.
-
-- 🎓 2nd Year B.Tech CSE — **ABES Engineering College, Ghaziabad**
-- 💻 Currently learning **Full Stack Web Development**
-- 🧠 Practicing **Data Structures & Algorithms with C++**
-- 🐍 Learning and using **Python**
-- ⚡ Working with **JavaScript, React & Node.js**
+- 🌱 Currently learning **Web Development & DSA**
+- 💻 Working with **C++, Python, JavaScript, React & Node.js**
 - 🤖 Exploring **Artificial Intelligence & Generative AI**
-- 🔨 Building projects as I learn
-- 🤝 Open to contributing to projects and collaborating with developers
+- 🚀 Building projects and improving my development skills
+- 🧠 Interested in problem solving and learning new technologies
+- 🤝 Open to learning, collaboration and interesting projects
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
@@ -47,17 +43,7 @@ I enjoy learning by building projects and continuously improving my programming 
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Princej-24&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princej-24&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
-
-</div>
-
-<br>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -67,7 +53,7 @@ I enjoy learning by building projects and continuously improving my programming 
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -77,115 +63,25 @@ I enjoy learning by building projects and continuously improving my programming 
 
 ---
 
-# 📈 Contribution Activity
+## 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Princej-24&theme=tokyo-night&hide_border=true&area=true&custom_title=Prince%20Jaiswal%27s%20Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-# 📦 GitHub Overview
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Public%20Repositories-15-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-
-<img src="https://img.shields.io/badge/Total%20Stars-7-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-
-<img src="https://img.shields.io/github/followers/Princej-24?style=for-the-badge&label=Followers&color=6366f1&logo=github&logoColor=white" alt="Followers"/>
-
-<img src="https://komarev.com/ghpvc/?username=Princej-24&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
-
-</div>
+| Technology | Focus |
+|---|---|
+| 🌐 Web Development | HTML, CSS, JavaScript, React & Node.js |
+| ⚡ Backend Development | Express.js & REST APIs |
+| 🧩 DSA | Data Structures & Algorithms using C++ |
+| 🐍 Python | Programming & Data Analysis |
+| 🤖 AI | Exploring Artificial Intelligence & Generative AI |
+| 🔧 Git & GitHub | Version Control & Project Management |
 
 ---
 
-# 🚀 Currently Learning
-
 <div align="center">
 
-| 💻 Technology | 📚 Focus |
-| :---: | :--- |
-| JavaScript | Web Development |
-| React | Frontend Development |
-| Node.js | Backend Development |
-| Express.js | REST APIs |
-| C++ | DSA & Problem Solving |
-| Python | Programming & Data |
-| AI | Exploring Generative AI |
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1;Code.+Learn.+Repeat.+%F0%9F%92%BB" />
 
 </div>
 
----
-
-# 🎯 Goals
-
-<div align="center">
-
-🚀 Become a skilled Full Stack Developer  
-<br>
-🧠 Strengthen DSA & problem-solving skills  
-<br>
-🤖 Learn more about Artificial Intelligence  
-<br>
-🌍 Contribute to open-source projects  
-<br>
-💡 Build useful real-world applications  
-<br>
-📚 Keep learning and improving every day  
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Princej-24/FSD2ndyear">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Princej-24&repo=FSD2ndyear&theme=tokyonight&hide_border=true" alt="FSD2ndyear"/>
-</a>
-
-<a href="https://github.com/Princej-24/OOPS2ndYear">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Princej-24&repo=OOPS2ndYear&theme=tokyonight&hide_border=true" alt="OOPS2ndYear"/>
-</a>
-
-</div>
-
----
-
-# 💻 Coding Journey
-
-<div align="center">
-
-```text
-                 MY DEVELOPMENT JOURNEY
-
-                         🚀
-                         │
-                         ▼
-                 Programming Fundamentals
-                         │
-                         ▼
-                    C++ & Python
-                         │
-                         ▼
-                  Data Structures
-                         │
-                         ▼
-                    JavaScript
-                         │
-                         ▼
-                React + Node.js
-                         │
-                         ▼
-              Full Stack Development
-                         │
-                         ▼
-                 Artificial Intelligence
-                         │
-                         ▼
-                    Real Projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" />
