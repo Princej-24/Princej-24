@@ -1,162 +1,115 @@
-<h1 align="center">Hi 👋, I'm Prince Jaiswal</h1>
+<div align="center">
 
-<h3 align="center">
-CSE Student | Full Stack Developer in Progress | C++ | Python | JavaScript
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Hi%20there,%20I'm%20Prince%20Jaiswal!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Princej-24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Development+Learner;C%2B%2B+%7C+Python+%7C+JavaScript;Exploring+AI;Building+Projects+As+I+Learn" />
 
-<p align="center">
-  <a href="https://github.com/Princej-24">
-    <img src="https://img.shields.io/github/followers/Princej-24?label=Followers&style=for-the-badge" alt="Followers"/>
-  </a>
-  <a href="https://github.com/Princej-24?tab=stars">
-    <img src="https://img.shields.io/github/stars/Princej-24?label=Stars&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/Princej-24?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repositories-15-blue?style=for-the-badge" alt="Repositories"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 CSE Student
-- 💻 Currently learning **Full Stack Development**
-- 🌱 Currently focusing on **JavaScript, React & Node.js**
-- 🧠 Practicing **DSA with C++**
-- 🐍 Learning and using **Python**
-- 🔨 Building projects to improve my development skills
-- 📚 Continuously learning new technologies
-- 🎯 Goal: Become a skilled Full Stack Developer & Software Engineer
+I'm a **2nd Year Computer Science Engineering student at ABES Engineering College, Ghaziabad**, currently focused on **Full Stack Web Development, DSA, and exploring AI**.
+
+I'm passionate about learning by building projects and continuously improving my programming and development skills.
+
+- 🎓 2nd Year B.Tech CSE — **ABES Engineering College, Ghaziabad**
+- 💻 Currently learning **Full Stack Web Development**
+- 🧠 Practicing **Data Structures & Algorithms with C++**
+- 🐍 Working with **Python**
+- ⚡ Learning **JavaScript, React & Node.js**
+- 🤖 Exploring **Artificial Intelligence**
+- 🔨 Building projects as I learn
+- 🤝 Open to contributing to projects and collaborating with other developers
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Princej-24">
+<img src="https://img.shields.io/badge/GitHub-Princej--24-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/princejaiswalpj/">
+<img src="https://img.shields.io/badge/LinkedIn-Prince%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://princej-24.github.io/personal-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,git,github,vscode" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Princej-24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Princej-24&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princej-24&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princej-24&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180"/>
 
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Princej-24&hide_border=true" alt="GitHub Streak"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Activity
+## 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Princej-24&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com?user=Princej-24&theme=tokyonight&hide_border=true" />
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Princej-24&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-
-</p>
+</div>
 
 ---
 
-# 📦 GitHub Statistics
+## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Princej-24?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-15-blue?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Princej-24&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-<a href="https://github.com/Princej-24?tab=stars">
-<img src="https://img.shields.io/badge/Total%20Stars-7-yellow?style=for-the-badge&logo=github" alt="Stars"/>
-</a>
-
-<a href="https://github.com/Princej-24">
-<img src="https://img.shields.io/github/followers/Princej-24?style=for-the-badge&label=Followers" alt="Followers"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💻 Coding Profiles
+## 📦 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Princej-24">
-<img src="https://img.shields.io/badge/GitHub-Princej--24-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<img src="https://img.shields.io/badge/Public%20Repositories-15-6366f1?style=for-the-badge&logo=github&logoColor=white" />
 
-<a href="https://www.linkedin.com/in/princejaiswalpj/">
-<img src="https://img.shields.io/badge/LinkedIn-Prince%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+<img src="https://img.shields.io/badge/Total%20Stars-7-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
 
-</p>
+<img src="https://img.shields.io/github/followers/Princej-24?style=for-the-badge&label=Followers&color=6366f1&logo=github" />
 
----
+<img src="https://komarev.com/ghpvc/?username=Princej-24&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/princejaiswalpj/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Princej-24">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-⚡ Keep Learning • Keep Building • Keep Coding ⚡
-</h3>
+## 🚀 What I'm Currently Working On
+
+```text
+🌐 Full Stack Web Development
+🧠 Data Structures & Algorithms
+⚡ JavaScript & React
+🟢 Node.js & Express
+🐍 Python
+🤖 Exploring Generative AI
+🔨 Building Projects
