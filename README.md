@@ -25,8 +25,20 @@ I'm a **2nd Year B.Tech Computer Science Engineering student** at **ABES Enginee
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/princejaiswalpj/">
+<a href="https://www.linkedin.com/in/princej24/">
 <img src="https://img.shields.io/badge/LinkedIn-Prince%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Princej-24">
+<img src="https://img.shields.io/badge/GitHub-Princej--24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/Prince_j24/">
+<img src="https://img.shields.io/badge/LeetCode-Prince__j24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://www.codechef.com/users/princej24">
+<img src="https://img.shields.io/badge/CodeChef-princej24-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 </a>
 
 </div>
@@ -40,39 +52,6 @@ I'm a **2nd Year B.Tech Computer Science Engineering student** at **ABES Enginee
 <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,git,github,vscode" />
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Princej-24&theme=tokyonight" width="95%" alt="GitHub Contribution Overview"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Princej-24&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-| Technology | Focus |
-|---|---|
-| 🌐 Web Development | HTML, CSS, JavaScript, React & Node.js |
-| ⚡ Backend Development | Express.js & REST APIs |
-| 🧩 DSA | Data Structures & Algorithms using C++ |
-| 🐍 Python | Programming & Data Analysis |
-| 🤖 AI | Exploring Artificial Intelligence & Generative AI |
-| 🔧 Git & GitHub | Version Control & Project Management |
 
 ---
 
